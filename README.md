@@ -1,5 +1,5 @@
   * Create assets/certification folder put the "<fileName>.cer to convert <FileName>.pem"
-  * just right click and reName ecxtension .cer to pem 
+  * just right click and reName extension .cer to pem 
   * By Akhilesh Goswami
    check out this video
     https://youtu.be/7ZrpFIZ5J1Y
